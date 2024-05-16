@@ -1,2 +1,2 @@
 # Discord-Bots
-discord bots made in python
+Some Discord bots i made in python
